@@ -2,4 +2,3 @@
 # bableves
 # csülök
 # kolbász
-# somloi galuska
